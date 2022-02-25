@@ -1,4 +1,4 @@
-Junior fullstack web-develover 
+Python developer
 
 Main hard skills:
 
