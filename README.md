@@ -2,12 +2,9 @@ Junior fullstack web-develover
 
 Main hard skills:
 
--PHP/ Yii2  
--Javascript/ Vue.js  
--HTML5/CSS3  
--PostgreSQL  
+-Python3 
+-PostgreSQL, Clickhouse
 -Redis  
--Python/ Flask, pandas  
--RabbitMQ  
+-Kafka, RabbitMQ  
 -Docker/ docker-compose  
 -Linux
